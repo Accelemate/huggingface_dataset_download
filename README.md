@@ -14,7 +14,7 @@
 
 ```bash
 # 克隆仓库
- git clone <your_repo_url>
+ git clone https://github.com/Accelemate/huggingface_dataset_download.git
  cd huggingface_dataset_download
 ```
 
